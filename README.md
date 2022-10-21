@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JudieCarey
+- 👀 I’m interested in React & Js
+- 🌱 I’m currently learning Js related
+- 💞️ I’m looking to collaborate on every interesting things
+- 📫 How to reach me By github, however I don't come frequently
